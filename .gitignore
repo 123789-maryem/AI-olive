@@ -4,4 +4,5 @@ __pycache__/
 .env
 uploads/
 dataset/
-*.zip
+*.zip 
+backend/olive_disease_model.keras
