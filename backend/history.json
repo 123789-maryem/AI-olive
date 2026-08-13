@@ -1,0 +1,299 @@
+[
+  {
+    "id": "105f86a62dd247fd8299f2d15f3771ca.jpg",
+    "image_url": "/uploads/105f86a62dd247fd8299f2d15f3771ca.jpg",
+    "disease": "Anthracnose",
+    "confidence": 0.7405422329902649,
+    "description": "Maladie fongique (Colletotrichum) provoquant des taches brunes sur les fruits et les feuilles, entra\u00eenant leur pourriture, surtout par temps humide.",
+    "treatment": "Traitement \u00e0 base de cuivre (bouillie bordelaise) avant les pluies automnales. \u00c9liminer les fruits et feuilles infect\u00e9s. Assurer une bonne a\u00e9ration de la frondaison.",
+    "date": "2026-07-31T10:55:53.791861"
+  },
+  {
+    "id": "7819c94ca1534c54b175099c9fecb4ad.jpg",
+    "image_url": "/uploads/7819c94ca1534c54b175099c9fecb4ad.jpg",
+    "disease": "Anthracnose",
+    "confidence": 0.9030921459197998,
+    "description": "Maladie fongique (Colletotrichum) provoquant des taches brunes sur les fruits et les feuilles, entra\u00eenant leur pourriture, surtout par temps humide.",
+    "treatment": "Traitement \u00e0 base de cuivre (bouillie bordelaise) avant les pluies automnales. \u00c9liminer les fruits et feuilles infect\u00e9s. Assurer une bonne a\u00e9ration de la frondaison.",
+    "date": "2026-07-31T10:55:42.519774"
+  },
+  {
+    "id": "5adfdcf26c3648c397e1c53f3de71027.jpg",
+    "image_url": "/uploads/5adfdcf26c3648c397e1c53f3de71027.jpg",
+    "disease": "Cycloconium",
+    "confidence": 0.5300068855285645,
+    "description": "Maladie fongique (Cycloconium oleaginum), aussi appel\u00e9e \u0153il de paon, causant des taches circulaires brun-noir sur les feuilles.",
+    "treatment": "Traitement cuprique pr\u00e9ventif en automne et au printemps. Ramasser et d\u00e9truire les feuilles tomb\u00e9es. \u00c9viter les exc\u00e8s d'humidit\u00e9.",
+    "date": "2026-07-31T10:55:28.688005"
+  },
+  {
+    "id": "02ef38d83e6f4cf1b7389c234949de7f.jpg",
+    "image_url": "/uploads/02ef38d83e6f4cf1b7389c234949de7f.jpg",
+    "disease": "Cycloconium",
+    "confidence": 0.5176302194595337,
+    "description": "Maladie fongique (Cycloconium oleaginum), aussi appel\u00e9e \u0153il de paon, causant des taches circulaires brun-noir sur les feuilles.",
+    "treatment": "Traitement cuprique pr\u00e9ventif en automne et au printemps. Ramasser et d\u00e9truire les feuilles tomb\u00e9es. \u00c9viter les exc\u00e8s d'humidit\u00e9.",
+    "date": "2026-07-31T10:55:21.542223"
+  },
+  {
+    "id": "4936e194264a405a8aa1311d91cc8344.jpg",
+    "image_url": "/uploads/4936e194264a405a8aa1311d91cc8344.jpg",
+    "disease": "Fumagina",
+    "confidence": 0.9999996423721313,
+    "description": "Champignon noir (fumagine) se d\u00e9veloppant sur le miellat s\u00e9cr\u00e9t\u00e9 par des insectes piqueurs-suceurs (cochenilles, pucerons), recouvrant les feuilles d'une couche noire.",
+    "treatment": "Traiter en premier lieu les insectes responsables (cochenilles). Nettoyer les feuilles \u00e0 l'eau savonneuse. Appliquer un fongicide si n\u00e9cessaire.",
+    "date": "2026-07-31T10:54:55.349421"
+  },
+  {
+    "id": "5160a54f304f45b69527a8579d283934.jpg",
+    "image_url": "/uploads/5160a54f304f45b69527a8579d283934.jpg",
+    "disease": "Cycloconium",
+    "confidence": 0.8873740434646606,
+    "description": "Maladie fongique (Cycloconium oleaginum), aussi appel\u00e9e \u0153il de paon, causant des taches circulaires brun-noir sur les feuilles.",
+    "treatment": "Traitement cuprique pr\u00e9ventif en automne et au printemps. Ramasser et d\u00e9truire les feuilles tomb\u00e9es. \u00c9viter les exc\u00e8s d'humidit\u00e9.",
+    "date": "2026-07-31T10:54:46.766623"
+  },
+  {
+    "id": "f0f7543bcdae4065817d8e2fe3c19f71.jpg",
+    "image_url": "/uploads/f0f7543bcdae4065817d8e2fe3c19f71.jpg",
+    "disease": "Peacock_Spot",
+    "confidence": 0.7024158239364624,
+    "description": "Maladie fongique tr\u00e8s r\u00e9pandue (Spilocaea oleagina), provoquant des taches circulaires brunes entour\u00e9es d'un halo jaune sur les feuilles, causant leur chute.",
+    "treatment": "Traitement cuprique en automne et fin d'hiver. Ramasser les feuilles tomb\u00e9es au sol. Tailler pour am\u00e9liorer la circulation de l'air.",
+    "date": "2026-07-31T10:54:35.609397"
+  },
+  {
+    "id": "886da634b1d347c593a3affed94223f3.jpg",
+    "image_url": "/uploads/886da634b1d347c593a3affed94223f3.jpg",
+    "disease": "Knot_Disease",
+    "confidence": 0.5106443166732788,
+    "description": "Maladie bact\u00e9rienne (tuberculose de l'olivier, Pseudomonas savastanoi) provoquant des excroissances (nodosit\u00e9s) sur les branches et le tronc.",
+    "treatment": "Tailler et br\u00fbler les branches atteintes (d\u00e9sinfecter les outils entre chaque coupe). Appliquer un traitement cuprique apr\u00e8s la taille. \u00c9viter les blessures sur l'arbre.",
+    "date": "2026-07-31T10:54:25.520758"
+  },
+  {
+    "id": "1189b3a5bd794d08a4dcf571ebde4944.jpg",
+    "image_url": "/uploads/1189b3a5bd794d08a4dcf571ebde4944.jpg",
+    "disease": "Cycloconium",
+    "confidence": 0.4580288529396057,
+    "description": "Maladie fongique (Cycloconium oleaginum), aussi appel\u00e9e \u0153il de paon, causant des taches circulaires brun-noir sur les feuilles.",
+    "treatment": "Traitement cuprique pr\u00e9ventif en automne et au printemps. Ramasser et d\u00e9truire les feuilles tomb\u00e9es. \u00c9viter les exc\u00e8s d'humidit\u00e9.",
+    "date": "2026-07-31T10:54:09.270893"
+  },
+  {
+    "id": "ddf6d9bafd3a4c46a04874cc9be95a79.jpg",
+    "image_url": "/uploads/ddf6d9bafd3a4c46a04874cc9be95a79.jpg",
+    "disease": "Peacock_Spot",
+    "confidence": 0.999984622001648,
+    "description": "Maladie fongique tr\u00e8s r\u00e9pandue (Spilocaea oleagina), provoquant des taches circulaires brunes entour\u00e9es d'un halo jaune sur les feuilles, causant leur chute.",
+    "treatment": "Traitement cuprique en automne et fin d'hiver. Ramasser les feuilles tomb\u00e9es au sol. Tailler pour am\u00e9liorer la circulation de l'air.",
+    "date": "2026-07-31T10:53:56.713813"
+  },
+  {
+    "id": "1e5487cbfa5e40c5a4c0e0ad468ff435.jpg",
+    "image_url": "/uploads/1e5487cbfa5e40c5a4c0e0ad468ff435.jpg",
+    "disease": "Virosis",
+    "confidence": 0.5138970613479614,
+    "description": "Infection virale affectant l'olivier, provoquant des d\u00e9formations, mosa\u00efques ou d\u00e9colorations sur les feuilles, sans traitement curatif direct.",
+    "treatment": "Aucun traitement curatif. \u00c9liminer les arbres fortement atteints pour \u00e9viter la propagation. Utiliser du mat\u00e9riel de greffe certifi\u00e9 sain.",
+    "date": "2026-07-31T10:53:32.935713"
+  },
+  {
+    "id": "5793b08c099f4fc7beb9cd36617c410b.jpg",
+    "image_url": "/uploads/5793b08c099f4fc7beb9cd36617c410b.jpg",
+    "disease": "Peacock_Spot",
+    "confidence": 0.7024158239364624,
+    "description": "Maladie fongique tr\u00e8s r\u00e9pandue (Spilocaea oleagina), provoquant des taches circulaires brunes entour\u00e9es d'un halo jaune sur les feuilles, causant leur chute.",
+    "treatment": "Traitement cuprique en automne et fin d'hiver. Ramasser les feuilles tomb\u00e9es au sol. Tailler pour am\u00e9liorer la circulation de l'air.",
+    "date": "2026-07-31T10:53:14.104886"
+  },
+  {
+    "id": "913e271d91d9470ab8fbbe576e368004.jpg",
+    "image_url": "/uploads/913e271d91d9470ab8fbbe576e368004.jpg",
+    "disease": "Anthracnose",
+    "confidence": 0.9992799162864685,
+    "description": "Maladie fongique (Colletotrichum) provoquant des taches brunes sur les fruits et les feuilles, entra\u00eenant leur pourriture, surtout par temps humide.",
+    "treatment": "Traitement \u00e0 base de cuivre (bouillie bordelaise) avant les pluies automnales. \u00c9liminer les fruits et feuilles infect\u00e9s. Assurer une bonne a\u00e9ration de la frondaison.",
+    "date": "2026-07-31T10:52:46.469086"
+  },
+  {
+    "id": "8395c298713c4b13afce342e753edae4.jpg",
+    "image_url": "/uploads/8395c298713c4b13afce342e753edae4.jpg",
+    "disease": "Black_Scale",
+    "confidence": 0.5850109457969666,
+    "description": "Infestation par la cochenille noire (Saissetia oleae), un insecte qui suce la s\u00e8ve et produit du miellat, favorisant le d\u00e9veloppement de fumagine.",
+    "treatment": "Traitement \u00e0 l'huile blanche ou insecticide sp\u00e9cifique. Introduire des pr\u00e9dateurs naturels (coccinelles). Tailler pour a\u00e9rer l'arbre.",
+    "date": "2026-07-31T10:52:28.714729"
+  },
+  {
+    "id": "2baf690f00aa4b72b554f368242c4b06.jpg",
+    "image_url": "/uploads/2baf690f00aa4b72b554f368242c4b06.jpg",
+    "disease": "Peacock_Spot",
+    "confidence": 0.7024158239364624,
+    "description": "Maladie fongique tr\u00e8s r\u00e9pandue (Spilocaea oleagina), provoquant des taches circulaires brunes entour\u00e9es d'un halo jaune sur les feuilles, causant leur chute.",
+    "treatment": "Traitement cuprique en automne et fin d'hiver. Ramasser les feuilles tomb\u00e9es au sol. Tailler pour am\u00e9liorer la circulation de l'air.",
+    "date": "2026-07-31T10:52:06.753055"
+  },
+  {
+    "id": "99f13b595a604663909cfda16de65a64.jpg",
+    "image_url": "/uploads/99f13b595a604663909cfda16de65a64.jpg",
+    "disease": "Healthy",
+    "confidence": 0.9999972581863403,
+    "description": "La feuille analys\u00e9e ne pr\u00e9sente aucun signe visible de maladie ou de parasite. L'arbre semble en bonne sant\u00e9.",
+    "treatment": "Aucun traitement n\u00e9cessaire. Continuer un entretien r\u00e9gulier : arrosage adapt\u00e9, taille annuelle et surveillance p\u00e9riodique.",
+    "date": "2026-07-23T21:14:08.557910"
+  },
+  {
+    "id": "96967f7ea0214638a8bf4b0a2187ff42.jpg",
+    "image_url": "/uploads/96967f7ea0214638a8bf4b0a2187ff42.jpg",
+    "disease": "Fumagina",
+    "confidence": 0.9876115918159485,
+    "description": "Champignon noir (fumagine) se d\u00e9veloppant sur le miellat s\u00e9cr\u00e9t\u00e9 par des insectes piqueurs-suceurs (cochenilles, pucerons), recouvrant les feuilles d'une couche noire.",
+    "treatment": "Traiter en premier lieu les insectes responsables (cochenilles). Nettoyer les feuilles \u00e0 l'eau savonneuse. Appliquer un fongicide si n\u00e9cessaire.",
+    "date": "2026-07-23T21:13:54.229366"
+  },
+  {
+    "id": "9cfe55e9bb5e46c5a8d6cdc19ca45986.jpg",
+    "image_url": "/uploads/9cfe55e9bb5e46c5a8d6cdc19ca45986.jpg",
+    "disease": "Fumagina",
+    "confidence": 0.9876115918159485,
+    "description": "Champignon noir (fumagine) se d\u00e9veloppant sur le miellat s\u00e9cr\u00e9t\u00e9 par des insectes piqueurs-suceurs (cochenilles, pucerons), recouvrant les feuilles d'une couche noire.",
+    "treatment": "Traiter en premier lieu les insectes responsables (cochenilles). Nettoyer les feuilles \u00e0 l'eau savonneuse. Appliquer un fongicide si n\u00e9cessaire.",
+    "date": "2026-07-23T21:13:45.920462"
+  },
+  {
+    "id": "d8e27631893d41c7a73f12d1d35ac05c.jpg",
+    "image_url": "/uploads/d8e27631893d41c7a73f12d1d35ac05c.jpg",
+    "disease": "Healthy",
+    "confidence": 1.0,
+    "description": "La feuille analys\u00e9e ne pr\u00e9sente aucun signe visible de maladie ou de parasite. L'arbre semble en bonne sant\u00e9.",
+    "treatment": "Aucun traitement n\u00e9cessaire. Continuer un entretien r\u00e9gulier : arrosage adapt\u00e9, taille annuelle et surveillance p\u00e9riodique.",
+    "date": "2026-07-23T21:13:29.638354"
+  },
+  {
+    "id": "87acadbce4094a97ad157e7952a1ef91.jpg",
+    "image_url": "/uploads/87acadbce4094a97ad157e7952a1ef91.jpg",
+    "disease": "Healthy",
+    "confidence": 1.0,
+    "description": "La feuille analys\u00e9e ne pr\u00e9sente aucun signe visible de maladie ou de parasite. L'arbre semble en bonne sant\u00e9.",
+    "treatment": "Aucun traitement n\u00e9cessaire. Continuer un entretien r\u00e9gulier : arrosage adapt\u00e9, taille annuelle et surveillance p\u00e9riodique.",
+    "date": "2026-07-23T20:59:08.982981"
+  },
+  {
+    "id": "672d930eebee4a09ab597db70e05f5a7.jpg",
+    "image_url": "/uploads/672d930eebee4a09ab597db70e05f5a7.jpg",
+    "disease": "Knot_Disease",
+    "confidence": 0.5106443166732788,
+    "description": "Maladie bact\u00e9rienne (tuberculose de l'olivier, Pseudomonas savastanoi) provoquant des excroissances (nodosit\u00e9s) sur les branches et le tronc.",
+    "treatment": "Tailler et br\u00fbler les branches atteintes (d\u00e9sinfecter les outils entre chaque coupe). Appliquer un traitement cuprique apr\u00e8s la taille. \u00c9viter les blessures sur l'arbre.",
+    "date": "2026-07-23T20:58:59.520443"
+  },
+  {
+    "id": "99cf391e7b0448d291272fcdf0fbd963.jpg",
+    "image_url": "/uploads/99cf391e7b0448d291272fcdf0fbd963.jpg",
+    "disease": "Cycloconium",
+    "confidence": 0.42427846789360046,
+    "description": "Maladie fongique (Cycloconium oleaginum), aussi appel\u00e9e \u0153il de paon, causant des taches circulaires brun-noir sur les feuilles.",
+    "treatment": "Traitement cuprique pr\u00e9ventif en automne et au printemps. Ramasser et d\u00e9truire les feuilles tomb\u00e9es. \u00c9viter les exc\u00e8s d'humidit\u00e9.",
+    "date": "2026-07-23T20:58:48.842806"
+  },
+  {
+    "id": "bda0fed521654bd1b53328d5f9af6573.jpg",
+    "image_url": "/uploads/bda0fed521654bd1b53328d5f9af6573.jpg",
+    "disease": "Peacock_Spot",
+    "confidence": 0.9991579055786133,
+    "description": "Maladie fongique tr\u00e8s r\u00e9pandue (Spilocaea oleagina), provoquant des taches circulaires brunes entour\u00e9es d'un halo jaune sur les feuilles, causant leur chute.",
+    "treatment": "Traitement cuprique en automne et fin d'hiver. Ramasser les feuilles tomb\u00e9es au sol. Tailler pour am\u00e9liorer la circulation de l'air.",
+    "date": "2026-07-23T20:58:37.395062"
+  },
+  {
+    "id": "372e3ec207d941fe86b89343bb3e0ae7.jpg",
+    "image_url": "/uploads/372e3ec207d941fe86b89343bb3e0ae7.jpg",
+    "disease": "Rust_Mite",
+    "confidence": 0.9999575614929199,
+    "description": "Acarien microscopique provoquant une d\u00e9coloration bronze/rouille des feuilles et fruits, ainsi qu'un dess\u00e8chement progressif.",
+    "treatment": "Application d'un acaricide adapt\u00e9. Am\u00e9liorer l'irrigation en p\u00e9riode de stress hydrique. Surveiller r\u00e9guli\u00e8rement les jeunes pousses.",
+    "date": "2026-07-23T20:58:22.451955"
+  },
+  {
+    "id": "d1e452090acf4fedbd901ee0b5b1fa25.jpg",
+    "image_url": "/uploads/d1e452090acf4fedbd901ee0b5b1fa25.jpg",
+    "disease": "Virosis",
+    "confidence": 0.4529072046279907,
+    "description": "Infection virale affectant l'olivier, provoquant des d\u00e9formations, mosa\u00efques ou d\u00e9colorations sur les feuilles, sans traitement curatif direct.",
+    "treatment": "Aucun traitement curatif. \u00c9liminer les arbres fortement atteints pour \u00e9viter la propagation. Utiliser du mat\u00e9riel de greffe certifi\u00e9 sain.",
+    "date": "2026-07-23T20:58:09.158115"
+  },
+  {
+    "id": "ff76ea6d11e1463b9eedab7c924a2715.jpg",
+    "image_url": "/uploads/ff76ea6d11e1463b9eedab7c924a2715.jpg",
+    "disease": "Knot_Disease",
+    "confidence": 0.5106443166732788,
+    "description": "Maladie bact\u00e9rienne (tuberculose de l'olivier, Pseudomonas savastanoi) provoquant des excroissances (nodosit\u00e9s) sur les branches et le tronc.",
+    "treatment": "Tailler et br\u00fbler les branches atteintes (d\u00e9sinfecter les outils entre chaque coupe). Appliquer un traitement cuprique apr\u00e8s la taille. \u00c9viter les blessures sur l'arbre.",
+    "date": "2026-07-23T20:57:44.396420"
+  },
+  {
+    "id": "3562388fe04241e39f35d32c2e5d7812.jpg",
+    "image_url": "/uploads/3562388fe04241e39f35d32c2e5d7812.jpg",
+    "disease": "Cycloconium",
+    "confidence": 0.4583560526371002,
+    "description": "Maladie fongique (Cycloconium oleaginum), aussi appel\u00e9e \u0153il de paon, causant des taches circulaires brun-noir sur les feuilles.",
+    "treatment": "Traitement cuprique pr\u00e9ventif en automne et au printemps. Ramasser et d\u00e9truire les feuilles tomb\u00e9es. \u00c9viter les exc\u00e8s d'humidit\u00e9.",
+    "date": "2026-07-23T20:57:22.386359"
+  },
+  {
+    "id": "8ee62cb894f04aad91ef490c58314cbf.jpg",
+    "image_url": "/uploads/8ee62cb894f04aad91ef490c58314cbf.jpg",
+    "disease": "Fumagina",
+    "confidence": 0.5190010070800781,
+    "description": "Champignon noir (fumagine) se d\u00e9veloppant sur le miellat s\u00e9cr\u00e9t\u00e9 par des insectes piqueurs-suceurs (cochenilles, pucerons), recouvrant les feuilles d'une couche noire.",
+    "treatment": "Traiter en premier lieu les insectes responsables (cochenilles). Nettoyer les feuilles \u00e0 l'eau savonneuse. Appliquer un fongicide si n\u00e9cessaire.",
+    "date": "2026-07-23T20:57:04.873477"
+  },
+  {
+    "id": "a9d3948ec1e7415da3bf0c0a0e98ec4e.jpg",
+    "image_url": "/uploads/a9d3948ec1e7415da3bf0c0a0e98ec4e.jpg",
+    "disease": "Knot_Disease",
+    "confidence": 0.9993433356285095,
+    "description": "Maladie bact\u00e9rienne (tuberculose de l'olivier, Pseudomonas savastanoi) provoquant des excroissances (nodosit\u00e9s) sur les branches et le tronc.",
+    "treatment": "Tailler et br\u00fbler les branches atteintes (d\u00e9sinfecter les outils entre chaque coupe). Appliquer un traitement cuprique apr\u00e8s la taille. \u00c9viter les blessures sur l'arbre.",
+    "date": "2026-07-23T20:53:06.693786"
+  },
+  {
+    "id": "dd0f706623be4086bc37de09a9077b2c.jpg",
+    "image_url": "/uploads/dd0f706623be4086bc37de09a9077b2c.jpg",
+    "disease": "Peacock_Spot",
+    "confidence": 0.9999971389770508,
+    "description": "Maladie fongique tr\u00e8s r\u00e9pandue (Spilocaea oleagina), provoquant des taches circulaires brunes entour\u00e9es d'un halo jaune sur les feuilles, causant leur chute.",
+    "treatment": "Traitement cuprique en automne et fin d'hiver. Ramasser les feuilles tomb\u00e9es au sol. Tailler pour am\u00e9liorer la circulation de l'air.",
+    "date": "2026-07-23T20:49:52.124176"
+  },
+  {
+    "id": "c94cb33786b343f7ac186eae31f7c2ec.jpg",
+    "image_url": "/uploads/c94cb33786b343f7ac186eae31f7c2ec.jpg",
+    "disease": "Knot_Disease",
+    "confidence": 0.9996836185455322,
+    "description": "Maladie bact\u00e9rienne (tuberculose de l'olivier, Pseudomonas savastanoi) provoquant des excroissances (nodosit\u00e9s) sur les branches et le tronc.",
+    "treatment": "Tailler et br\u00fbler les branches atteintes (d\u00e9sinfecter les outils entre chaque coupe). Appliquer un traitement cuprique apr\u00e8s la taille. \u00c9viter les blessures sur l'arbre.",
+    "date": "2026-07-23T20:49:21.583777"
+  },
+  {
+    "id": "2043635285ca4668b4b0b248f025e28e.jpg",
+    "image_url": "/uploads/2043635285ca4668b4b0b248f025e28e.jpg",
+    "disease": "Knot_Disease",
+    "confidence": 0.9999160766601562,
+    "description": "Maladie bact\u00e9rienne (tuberculose de l'olivier, Pseudomonas savastanoi) provoquant des excroissances (nodosit\u00e9s) sur les branches et le tronc.",
+    "treatment": "Tailler et br\u00fbler les branches atteintes (d\u00e9sinfecter les outils entre chaque coupe). Appliquer un traitement cuprique apr\u00e8s la taille. \u00c9viter les blessures sur l'arbre.",
+    "date": "2026-07-23T20:48:54.563357"
+  },
+  {
+    "id": "38991183b32f466db5692508e5ee037d.jpg",
+    "image_url": "/uploads/38991183b32f466db5692508e5ee037d.jpg",
+    "disease": "Knot_Disease",
+    "confidence": 0.9761298298835754,
+    "description": "Maladie bact\u00e9rienne (tuberculose de l'olivier, Pseudomonas savastanoi) provoquant des excroissances (nodosit\u00e9s) sur les branches et le tronc.",
+    "treatment": "Tailler et br\u00fbler les branches atteintes (d\u00e9sinfecter les outils entre chaque coupe). Appliquer un traitement cuprique apr\u00e8s la taille. \u00c9viter les blessures sur l'arbre.",
+    "date": "2026-07-23T20:47:28.582357"
+  }
+]
