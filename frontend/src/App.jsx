@@ -9,7 +9,7 @@ function App() {
   const [tab, setTab] = useState("analyse");
 
   const fetchHistory = async () => {
-    const res = await fetch("http://localhost:5000/history");
+    const res = awaitfetch("https://ai-olive-4.onrender.com/history");
     const data = await res.json();
     setHistory(data);
   };
@@ -32,7 +32,7 @@ function App() {
     formData.append("image", image);
 
     try {
-      const res = await fetch("http://localhost:5000/predict", {
+      const res = await fetch("https://ai-olive-4.onrender.com/predict", {
         method: "POST",
         body: formData,
       });
@@ -41,7 +41,7 @@ function App() {
       fetchHistory();
     } catch (err) {
       console.error(err);
-    }
+    }http
     setLoading(false);
   };
 
